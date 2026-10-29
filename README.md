@@ -4,7 +4,7 @@
 
 A lightweight, private set of tweaks for Canvas: dark mode, a better to-do list, a GPA calculator and more. No tracking, no accounts, no bloat.
 
-## Download the plugin for your browser:
+## Download the plugin:
 [Chrome](https://chromewebstore.google.com/detail/debloated-dashboard-for-c/ipocifdiklldkaddemhlmejdacmlkkde), [Edge](https://microsoftedge.microsoft.com/addons/detail/debloated-dashboard-for-c/aelpdgjnpmlgpkhfdipmilbblajfmjjn), or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/debloated-dashboard-for-canvas/).
 
 ## Features
