@@ -6,8 +6,8 @@ A lightweight, private set of tweaks for Canvas: dark mode, a better to-do list,
 
 ## Install the plugin:
 
-[![Get it from the Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/debloated-dashboard-for-c/ipocifdiklldkaddemhlmejdacmlkkde)
-[![Get it from Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/debloated-dashboard-for-canvas/)
+<a href="https://chromewebstore.google.com/detail/debloated-dashboard-for-c/ipocifdiklldkaddemhlmejdacmlkkde"><img src="assets/chrome-web-store-badge.png" alt="Available in the Chrome Web Store" height="32"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/debloated-dashboard-for-canvas/"><img src="assets/firefox-addons-badge.png" alt="Get the add-on for Firefox" height="32"></a>
 <a href="https://microsoftedge.microsoft.com/addons/detail/debloated-dashboard-for-c/aelpdgjnpmlgpkhfdipmilbblajfmjjn"><img src="assets/edge-addons-badge.png" alt="Get it from Microsoft Edge" height="32"></a>
 
 ## Features
